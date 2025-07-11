@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=175D7E&text=Ítalo%20Veiga&fontColor=7E3817&section=header&reversal=true)
+![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=7E172A&text=Ítalo%20Veiga&fontColor=7E3817&section=header&reversal=true)
 <h3 align="center">Data Science student</h3>
 
 
