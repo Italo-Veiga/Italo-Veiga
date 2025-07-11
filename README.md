@@ -1,8 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EAEEE9&height=200&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4E5180e1&size=45&center=true&vCenter=true&width=1000&lines=Hey,+My+name+is+Ítalo+Veiga;I'm+from+Brazil)](https://git.io/typing-svg)
-<h3>Data Science on EBAC<h3>
 <h3 align="center">21 years old</h3>
+<h3>Data Science on EBAC<h3>
+
 
 --- 
 
