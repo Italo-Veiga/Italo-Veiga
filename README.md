@@ -1,7 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EAEEE9&height=200&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4E5180e1&size=45&center=true&vCenter=true&width=1000&lines=Hey,+My+name+is+Ítalo+Veiga;I'm+from+Brazil;Data+Scientist;Be+Welcome+:%29)](https://git.io/typing-svg)
-<h3>21 years old</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4E5180e1&size=45&center=true&vCenter=true&width=1000&lines=Hey,+My+name+is+Ítalo+Veiga;I'm+from+Brazil;Be+Welcome+:%29)](https://git.io/typing-svg)
+<h3>Data Science on EBAC<h3>
+<h3 align="center">21 years old</h3>
 
  ### Main skills: 
  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; 
